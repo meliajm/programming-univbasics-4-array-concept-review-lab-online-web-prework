@@ -13,7 +13,7 @@ def find_element_index(array, value_to_find)
   #   else {
   #     return nil
   #   }
-  array.length.times do | i |  
+  # array.length.times do | i |  
 
 end
 
